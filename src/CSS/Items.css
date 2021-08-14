@@ -8,3 +8,10 @@
   justify-content: space-between;
   flex-wrap: wrap;
 }
+
+.header {
+  margin-top: 80px;
+  font-size: 42px;
+  color: #1d1f22;
+  font-weight: 400;
+}

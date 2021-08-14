@@ -13,6 +13,10 @@
   color: #5ece7b;
 }
 
+.shopping-cart {
+  font-size: 23px;
+}
+
 .nav {
   display: flex;
   justify-content: space-between;
