@@ -1,0 +1,31 @@
+.cart {
+  z-index: 2;
+  position: absolute;
+  top: 70px;
+  right: 0;
+}
+
+.cart-item > img {
+  width: 105px;
+  object-fit: contain;
+}
+
+.cart-item {
+  display: flex;
+  margin-top: 44px;
+}
+
+.cart-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-right: 10px;
+}
+
+.cart-name {
+  font-size: 16px;
+}
+
+.my-bag {
+  display: inline-block;
+}

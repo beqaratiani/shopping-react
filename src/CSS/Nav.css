@@ -15,9 +15,11 @@
 
 .shopping-cart {
   font-size: 23px;
+  cursor: pointer;
 }
 
 .nav {
+  position: relative;
   display: flex;
   justify-content: space-between;
   align-items: center;
